@@ -9,6 +9,6 @@ Angehender Fachinformatiker für Anwendungsentwicklung mit klarer Ausrichtung au
 ![](https://nirzak-streak-stats.vercel.app/?user=g-laur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Certifications:
-<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/bcddd744-ca6c-4d98-9f0b-06976ba7792a" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bcddd744-ca6c-4d98-9f0b-06976ba7792a" />
 
 
