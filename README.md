@@ -9,9 +9,9 @@ Angehender Fachinformatiker für Anwendungsentwicklung mit klarer Ausrichtung au
 ![](https://nirzak-streak-stats.vercel.app/?user=g-laur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Certifications:
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bcddd744-ca6c-4d98-9f0b-06976ba7792a" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4e5e3934-882f-4f9f-9ae3-e2b075a90a85" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/892479d7-2b5a-4aff-b185-cdc87179a8be" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/09480dba-15ab-41bf-8e2f-3997d734e0ce" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/bcddd744-ca6c-4d98-9f0b-06976ba7792a" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/4e5e3934-882f-4f9f-9ae3-e2b075a90a85" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/892479d7-2b5a-4aff-b185-cdc87179a8be" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/09480dba-15ab-41bf-8e2f-3997d734e0ce" />
 
 
