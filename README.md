@@ -45,7 +45,4 @@ Git · GitHub · Linux · XAMPP · Apache · Selenium
 - Datenbankdesign und saubere SQL-Abfragen
 - Vorbereitung auf die Ausbildung als Fachinformatiker AE
 
----
 
-## 📫 Kontakt
-- 📍 Neufahrn bei Freising  
