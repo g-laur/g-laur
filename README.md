@@ -1,18 +1,51 @@
-# 💫 About Me:
-Angehender Fachinformatiker für Anwendungsentwicklung mit klarer Ausrichtung auf Web- und Anwendungsentwicklung. Praktische Einblicke durch ein IT-Praktikum sowie kontinuierliche Eigenprojekte mit PHP, MySQL und Java. Hohe Lernbereitschaft, Zuverlässigkeit und Motivation für eine langfristige Entwicklung im Ausbildungsbetrieb.
+## 👋 Hallo, ich bin Laurentiu
 
+Angehender **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Web- und Anwendungsentwicklung.  
+Ich habe praktische Einblicke durch ein IT-Praktikum gesammelt und entwickle eigenständig Projekte mit **PHP, MySQL und Java**, um reale Probleme strukturiert zu lösen.
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![](https://github-readme-stats.vercel.app/api?username=g-laur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=g-laur&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-laur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📝 Certifications:
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/bcddd744-ca6c-4d98-9f0b-06976ba7792a" />
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/4e5e3934-882f-4f9f-9ae3-e2b075a90a85" />
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/892479d7-2b5a-4aff-b185-cdc87179a8be" />
-<img width="125" height="125" alt="image" src="https://github.com/user-attachments/assets/09480dba-15ab-41bf-8e2f-3997d734e0ce" />
+Mein Ziel ist eine Ausbildung, in der ich sauberes Programmieren, Datenbankdesign und praxisnahe Softwareentwicklung weiter vertiefen kann.
 
+---
 
+## 🚀 Schwerpunkte
+- Webanwendungen mit PHP & MySQL (CRUD, Authentifizierung, Struktur)
+- Automatisierung & Skripting (Python)
+- Saubere Projektstruktur und nachvollziehbarer Code
+- Lernen durch reale Projekte statt Tutorials
 
+---
 
+## 📌 Ausgewählte Projekte
+*(Details, Screenshots und Setup-Anleitungen sind in den jeweiligen Repositories zu finden)*
+
+- **Smart Packing List Web App**  
+  PHP/MySQL-Anwendung zur Verwaltung von Packlisten inkl. PDF-Generierung (Logistik-Bezug)
+
+- **Transportlogistik-System (PHP)**  
+  Webanwendung mit Login, Dashboard und Verwaltungsfunktionen für Transportdaten
+
+- **To-Do REST API**  
+  Backend-API mit JWT-Authentifizierung, CRUD-Endpunkten und Tests
+
+👉 Weitere Projekte: siehe Repositories
+
+---
+
+## 🛠️ Technologien
+**Programmiersprachen & Web**  
+PHP · JavaScript · HTML · CSS · MySQL · Python · Java (Grundlagen)
+
+**Tools & Umgebung**  
+Git · GitHub · Linux · XAMPP · Apache · Selenium
+
+---
+
+## 📚 Aktuell beschäftige ich mich mit
+- Verbesserung von Code-Struktur und Readability
+- Datenbankdesign und saubere SQL-Abfragen
+- Vorbereitung auf die Ausbildung als Fachinformatiker AE
+
+---
+
+## 📫 Kontakt
+- 📍 Neufahrn bei Freising  
